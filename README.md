@@ -244,7 +244,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 🌟 Canlı Demo
 
-[GitHub Pages Demo](https://ak-hosting.github.io/ak-cafe)
+🚀 **GitHub Pages Demo**: [https://ak-hosting.github.io/ak-cafe](https://ak-hosting.github.io/ak-cafe)
+
+*Not: GitHub Pages deployment otomatik olarak yapılır. Ana branch'e push yapıldığında site otomatik olarak güncellenir.*
 
 ## 📱 Ekran Görüntüleri
 
