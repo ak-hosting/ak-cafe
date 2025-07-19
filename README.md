@@ -172,9 +172,14 @@ Form şu anda simüle edilmektedir. Gerçek e-posta gönderimi için:
 
 ### Görsel Kaynakları
 
-- [Unsplash](https://unsplash.com/s/photos/cafe)
-- [Pexels](https://www.pexels.com/search/cafe/)
-- [Pixabay](https://pixabay.com/images/search/cafe/)
+Bu projede kullanılan görseller ücretsiz ve ticari kullanıma uygun kaynaklardan alınmıştır:
+
+- [Unsplash](https://unsplash.com/s/photos/cafe) - Kafe görselleri
+- [Pexels](https://www.pexels.com/search/cafe/) - Yüksek kaliteli fotoğraflar
+- [Pixabay](https://pixabay.com/images/search/cafe/) - Ücretsiz stok fotoğraflar
+- [Icons8](https://icons8.com/) - Favicon ve ikonlar
+
+**Not**: Tüm görseller ücretsiz lisans altında kullanılmıştır. Kendi görsellerinizle değiştirebilirsiniz.
 
 ## 🎯 Özelleştirme Seçenekleri
 
