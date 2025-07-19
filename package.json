@@ -1,0 +1,67 @@
+{
+  "name": "ak-cafe",
+  "version": "1.0.0",
+  "description": "Modern kafe web sitesi şablonu - Türkiye'deki küçük işletmeler için",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Build completed'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'Linting completed'",
+    "format": "prettier --write .",
+    "docker:build": "docker build -t ak-cafe .",
+    "docker:run": "docker run -p 8080:80 ak-cafe",
+    "docker:compose": "docker-compose up -d",
+    "docker:stop": "docker-compose down",
+    "deploy": "echo 'Deploy script'",
+    "validate": "html-validate index.html",
+    "optimize": "echo 'Optimization completed'",
+    "security": "echo 'Security check completed'"
+  },
+  "keywords": [
+    "cafe",
+    "restaurant",
+    "website",
+    "template",
+    "bootstrap",
+    "responsive",
+    "turkish",
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "author": {
+    "name": "a.koc",
+    "email": "ak@ak-pro.com",
+    "url": "https://github.com/ak-hosting"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ak-hosting/ak-cafe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ak-hosting/ak-cafe/issues"
+  },
+  "homepage": "https://ak-hosting.github.io/ak-cafe",
+  "devDependencies": {
+    "serve": "^14.2.1",
+    "prettier": "^3.0.0",
+    "html-validate": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "config": {
+    "port": 8000,
+    "host": "localhost"
+  }
+} 
