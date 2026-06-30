@@ -1,21 +1,4 @@
-# AK Cafe - Robots.txt
-# Modern kafe web sitesi için SEO optimizasyonu
-
 User-agent: *
 Allow: /
 
-# Sitemap
 Sitemap: https://ak-hosting.github.io/ak-cafe/sitemap.xml
-
-# Disallow admin areas (if any)
-Disallow: /admin/
-Disallow: /private/
-
-# Allow all assets
-Allow: /assets/
-Allow: /css/
-Allow: /js/
-Allow: /images/
-
-# Crawl delay
-Crawl-delay: 1 
